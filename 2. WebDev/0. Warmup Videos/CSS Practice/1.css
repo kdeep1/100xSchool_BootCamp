@@ -1,0 +1,12 @@
+.box {
+    background-color: yellow; 
+    color: red;
+    border:4px dotted black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 10px;
+    width: 300px;
+    
+
+}
